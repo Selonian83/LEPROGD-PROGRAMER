@@ -10,3 +10,7 @@ EST-CE QUE VOUS CONNAISSEZ LE FUTUR ET MES AMBITIONS?
 Depuis Septembre 2024, je passe entre 8 et 16hr par jours a m'auto-éduqué dans le but d'être le 100% qui réussira un cours qui étais pas mon 1er choix.....
 Je remarque aussi qu'au niveau developpement web gouvernementale il a un gros manque a gagné..... VOUS TROUVEZ PAS?
 Je pourrai vous faire beaucoup mieux en ce jours sans formation.....
+
+Fondateur de TEAMDEVQC. (Groupe d'entraide humaine de développeur)
+
+<img src="https://i.ibb.co/SvTdpXz/logo-devmoyen.png" alt="logo-devmoyen" border="0">
