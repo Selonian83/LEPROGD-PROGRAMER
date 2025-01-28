@@ -11,7 +11,7 @@ Depuis Septembre 2024, je passe entre 8 et 16hr par jours a m'auto-éduqué dans
 Je remarque aussi qu'au niveau developpement web gouvernementale il a un gros manque a gagné..... VOUS TROUVEZ PAS?
 Je pourrai vous faire beaucoup mieux en ce jours sans formation.....
 
-<img src="https://i.ibb.co/pQg4nW2/cours.jpg" alt="cours" border="0">
+<img src="https://i.ibb.co/YZCt0xp/Capture-d-cran-2025-01-28-092244.jpg" alt="Capture-d-cran-2025-01-28-092244" border="0">
 
 Fondateur de TEAMDEVQC. (Groupe d'entraide humaine de développeur) https://www.teamdevqc.ovh
 
